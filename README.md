@@ -11,6 +11,9 @@ This project is built by former students of The Last Mile. If you are looking to
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
+![Screenshot 2023-04-07 5 30 37 AM](https://user-images.githubusercontent.com/56654391/230609297-e46192d5-9d9f-45f6-afa6-628bb9d87d96.png)
+
+
 ## Clone the repository
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
