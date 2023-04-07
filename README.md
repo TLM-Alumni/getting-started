@@ -1,7 +1,7 @@
 # Getting started with collaborating and contributing to open source projects
 This project is built by former students of The Last Mile. If you are looking to make your first contribution, follow the steps below.
 
-#### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
+#### If you don't have git, node, and/or vscode on your machine, [here is a helpful tutorial to do so.](https://drive.google.com/file/d/11fnb_uE8SO9H1gnvOt_u5sRaBqIZu8nT/view?usp=sharing).
 
 ## Fork this repository
 
