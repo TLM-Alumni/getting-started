@@ -5,6 +5,9 @@ This project is built by former students of The Last Mile. If you are looking to
 
 ## Fork this repository
 
+![Black and Blue Dark Mode Modern Shoes Inspiration Instagram Post](https://user-images.githubusercontent.com/56654391/230608866-83905702-ce93-4b36-bb12-671f76b51d42.png)
+
+
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
