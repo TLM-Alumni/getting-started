@@ -19,25 +19,27 @@ https://git-scm.com/docs
 Git jargon
 
 TODO: Add explanations/definitions of all the technical jargon used on this Readme
-Fork
-Clone
-Git
-Branch
-Merge
-“git status”
-“git add”
-“git commit”
-“git push”
-“git pull”
-“git log”
-“git diff”
+- Fork
+- Clone
+- Git
+- Branch
+- Merge
+- “git status”
+- “git add”
+- “git commit”
+- “git push”
+- “git pull”
+- “git log”
+- “git diff”
+
 (adding “git rebase”? Maybe? Something people should eventually know, maybe not immediately for this)
-SSH
-Repository
-remote
-auth/sign in key (pick auth always)
-Pull request
-‘git help’ command
+
+- SSH
+- Repository
+- remote
+- auth/sign in key (pick auth always)
+- Pull request
+- ‘git help’ command
 
 
 
