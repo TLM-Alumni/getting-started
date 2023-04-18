@@ -5,6 +5,12 @@ Inside this repository, you'll find all the resources you need to get started, i
 
 While we acknowledge that contributing to open source may feel scary and intimidating at first, rest assured you that the rewards are well worth it. Not only will you gain valuable experience and skills, but you'll also foster a great sense of community and collaboration with other developers who share your passion for coding.
 
+### Why is open source contribution important?
+
+Open source contribution is not only important for the betterment of the technology industry as a whole, but it's also a valuable opportunity for personal and professional growth. By contributing to open source projects, you can build your skills, expand your network, and demonstrate your expertise to potential employers, all while making a positive impact on the world of technology.
+
+Github has a very good summary of why open source contribution is an excellent way to learn and grow as an engineer. ![github open source guide](https://opensource.guide/how-to-contribute/#why-contribute-to-open-source)
+
 #### If you don't have git, node, and/or vscode on your machine, [here is a helpful tutorial to do so](https://drive.google.com/file/d/11fnb_uE8SO9H1gnvOt_u5sRaBqIZu8nT/view?usp=sharing).
 
 ## Fork this repository
