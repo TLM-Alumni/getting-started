@@ -10,6 +10,34 @@ Git is a tool that is used for all projects on Github (including this one) to ma
 
 Version control systems not only let you track your own changes to software, but let you work on your own code independently from other people without affecting their own changes. Once you’ve made your changes, you can request that your changes be made part of the “main” version of the project.
 
+Git link
+https://www.learnenough.com/git-tutorial#sec-exercises_initializing_the_repo
+https://www.udemy.com/course/git-complete/
+
+Git docs
+https://git-scm.com/docs
+Git jargon
+
+TODO: Add explanations/definitions of all the technical jargon used on this Readme
+Fork
+Clone
+Git
+Branch
+Merge
+“git status”
+“git add”
+“git commit”
+“git push”
+“git pull”
+“git log”
+“git diff”
+(adding “git rebase”? Maybe? Something people should eventually know, maybe not immediately for this)
+SSH
+Repository
+remote
+auth/sign in key (pick auth always)
+Pull request
+‘git help’ command
 
 
 
