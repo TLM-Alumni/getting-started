@@ -1,5 +1,9 @@
 # Getting started with collaborating and contributing to open source projects
-This project is built by former students of The Last Mile. If you are looking to make your first contribution, follow the steps below.
+Starting out in the world of open source can be intimidating, so we've created this repository to guide you through the process and help you make your first contribution. Our goal is to make the process as smooth and easy as possible, so you can gain valuable experience, build your portfolio, and make a meaningful impact on real-world projects.
+
+Inside this repository, you'll find all the resources you need to get started, including step-by-step guides and tutorials, and tips for effective contribution. We've also curated a list of beginner-friendly open source projects that you can contribute to, along with guidelines on how to do so.
+
+While we acknowledge that contributing to open source may feel scary and intimidating at first, rest assured you that the rewards are well worth it. Not only will you gain valuable experience and skills, but you'll also foster a great sense of community and collaboration with other developers who share your passion for coding.
 
 #### If you don't have git, node, and/or vscode on your machine, [here is a helpful tutorial to do so](https://drive.google.com/file/d/11fnb_uE8SO9H1gnvOt_u5sRaBqIZu8nT/view?usp=sharing).
 
@@ -21,7 +25,7 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 Open a terminal and run the following git command:
 
 ```
-git clone https://github.com/TLM-Alumni/getting-started.git 
+git clone https://github.com/TLM-Alumni/getting-started.git
 ```
 
 
