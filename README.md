@@ -21,7 +21,7 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 Open a terminal and run the following git command:
 
 ```
-git clone https://github.com/TLM-Alumni/getting-started.git 
+git clone https://github.com/TLM-Alumni/getting-started.git
 ```
 
 
@@ -66,6 +66,14 @@ git commit -m "Add <your-name> to Contributors list"
 replacing `<your-name>` with your name.
 
 ## Push changes to GitHub
+
+### Authentication
+
+Before you are able to push your changes you will need to set up an SSH key to authenticate with GitHub. SSH keys allow you to securely connect to GitHub without having to supply your username and password each time.
+
+GitHub has a good [step-by-step guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key) to help you accomplish this. You should only need to set this up once as the SSH key lives on your local machine for this and other projects.
+
+### Pushing your changes
 
 Push your changes using the command `git push`:
 
