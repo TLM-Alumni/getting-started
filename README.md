@@ -31,6 +31,7 @@ Git jargon
 TODO: Add explanations/definitions of all the technical jargon used on this Readme
 - Fork
 - Clone
+- and what is the difference between Fork and Clone/when to use which
 - Git
 - Branch
 - Merge
@@ -41,9 +42,6 @@ TODO: Add explanations/definitions of all the technical jargon used on this Read
 - “git pull”
 - “git log”
 - “git diff”
-
-(adding “git rebase”? Maybe? Something people should eventually know, maybe not immediately for this)
-
 - SSH
 - Repository
 - remote
